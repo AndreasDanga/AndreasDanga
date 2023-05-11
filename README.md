@@ -3,23 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasdanga&label=Profile%20views&color=0e75b6&style=flat" alt="andreasdanga" /> </p>
 
-- 🔭 I’m currently working on **lalala**
+- 🔭 I’m currently working on **Python PCEP || Azure AZ-900 || Azure DP-900**
 
-- 🌱 I’m currently learning **Python, SQL, Azure**
+- 🌱 I’m currently learning **More Python, More SQL, Azure**
 
-- 👯 I’m looking to collaborate on **lulululu**
+- 🤝 I’m looking for help with **Too much tbh, :)**
 
-- 🤝 I’m looking for help with **lololo**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AndreasDanga](https://github.com/AndreasDanga)
-
-- 📝 I regularly write articles on [https://github.com/AndreasDanga](https://github.com/AndreasDanga)
+- 👨‍💻 All of my projects are available at HIER MACHST DU IO REIN [https://github.com/AndreasDanga](https://github.com/AndreasDanga)
 
 - 💬 Ask me about **Statistics, KPI Management, Stakeholder-Oriented MVP**
 
-- 📫 How to reach me **atat**
-
-- 📄 Know about my experiences [https://github.com/AndreasDanga](https://github.com/AndreasDanga)
+- 📫 How to reach me **LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
