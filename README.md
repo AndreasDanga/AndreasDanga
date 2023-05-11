@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Andreas Dangaris</h1>
+<h3 align="center">Passionate Data Analyst & Crazy Number Cruncher</h3>
 
-<!--
-**AndreasDanga/AndreasDanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasdanga&label=Profile%20views&color=0e75b6&style=flat" alt="andreasdanga" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **lalala**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Python, SQL, Azure**
+
+- 👯 I’m looking to collaborate on **lulululu**
+
+- 🤝 I’m looking for help with **lololo**
+
+- 👨‍💻 All of my projects are available at [https://github.com/AndreasDanga](https://github.com/AndreasDanga)
+
+- 📝 I regularly write articles on [https://github.com/AndreasDanga](https://github.com/AndreasDanga)
+
+- 💬 Ask me about **Statistics, KPI Management, Stakeholder-Oriented MVP**
+
+- 📫 How to reach me **atat**
+
+- 📄 Know about my experiences [https://github.com/AndreasDanga](https://github.com/AndreasDanga)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/andreas dangaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreas dangaris" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreasdanga&show_icons=true&locale=en&layout=compact" alt="andreasdanga" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreasdanga&show_icons=true&locale=en" alt="andreasdanga" /></p>
