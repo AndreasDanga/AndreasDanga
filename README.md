@@ -3,9 +3,9 @@
 
 <h5 align="center">I will try to update my projects and future collaborations as frequently as possible. Come and visit my profile anytime you wish!</h5>
 
-<div style="float: right;">
+<p align="right">
   <img alt="Coding" width="400" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
-</div>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasdanga&label=Profile%20views&color=0e75b6&style=flat" alt="andreasdanga" /> </p>
 
