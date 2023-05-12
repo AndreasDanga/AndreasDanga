@@ -13,10 +13,11 @@
       <li>💬 Ask me about <strong>Statistics, KPI Management, Stakeholder-Oriented MVP</strong></li>
     </ul>
   </div>
-  <div style="flex: 1; text-align: right;">
+  <div>
     <img alt="Coding" width="400" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
   </div>
 </div>
+
 
 
 
