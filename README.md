@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andreas Dangaris</h1>
 <h3 align="center">Passionate Data Analyst & Crazy Number Cruncher</h3>
 
-<h5 align="center">I will update my projects and future collaborations</h5>
+<h5 align="center">I will try to update my projects and future collaborations as frequently as possible. Come and visit my profile anytime you wish!</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasdanga&label=Profile%20views&color=0e75b6&style=flat" alt="andreasdanga" /> </p>
 
