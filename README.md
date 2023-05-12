@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andreas Dangaris</h1>
 <h3 align="center">Passionate Data Analyst & Crazy Number Cruncher</h3>
 
+<h5 align="center">I will update my projects and future collaborations</h5>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasdanga&label=Profile%20views&color=0e75b6&style=flat" alt="andreasdanga" /> </p>
 
 - 🔭 I’m currently working on **Python PCEP || Azure AZ-900 || Azure DP-900**
