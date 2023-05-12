@@ -3,7 +3,7 @@
 
 <h5 align="center">I will try to update my projects and future collaborations as frequently as possible. Come and visit my profile anytime you wish!</h5>
 
-<iframe src="https://giphy.com/embed/l46Cy1rHbQ92uuLXa" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Coding](https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasdanga&label=Profile%20views&color=0e75b6&style=flat" alt="andreasdanga" /> </p>
 
