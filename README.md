@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **More Python, More SQL, Azure**
 
-- 🤝 I’m looking for help with **Too much tbh, :)**
-
 - 👨‍💻 All of my projects are available at HIER MACHST DU IO REIN [https://github.com/AndreasDanga](https://github.com/AndreasDanga)
 
 - 💬 Ask me about **Statistics, KPI Management, Stakeholder-Oriented MVP**
