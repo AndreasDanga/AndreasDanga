@@ -3,13 +3,15 @@
 
 <h5 align="center">I will try to update my projects and future collaborations as frequently as possible. Come and visit my profile anytime you wish!</h5>
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex;">
   <div style="flex: 1;">
-    - 🔭 I’m currently working on **Certifications: Python PCEP || Azure AZ-900 || Azure DP-900**
-    - 🌱 I’m currently learning **More Python, More SQL, Azure**
-    - 👨‍💻 All of my projects are available at [https://github.com/AndreasDanga](https://github.com/AndreasDanga)
-    - 🚀 You can have a look at my certifications and badges here: [Credly](https://www.credly.com/users/andreas-dangaris)
-    - 💬 Ask me about **Statistics, KPI Management, Stakeholder-Oriented MVP**
+    <ul>
+      <li>🔭 I’m currently working on <strong>Certifications: Python PCEP || Azure AZ-900 || Azure DP-900</strong></li>
+      <li>🌱 I’m currently learning <strong>More Python, More SQL, Azure</strong></li>
+      <li>👨‍💻 All of my projects are available at <a href="https://github.com/AndreasDanga">https://github.com/AndreasDanga</a></li>
+      <li>🚀 You can have a look at my certifications and badges here: <a href="https://www.credly.com/users/andreas-dangaris">Credly</a></li>
+      <li>💬 Ask me about <strong>Statistics, KPI Management, Stakeholder-Oriented MVP</strong></li>
+    </ul>
   </div>
   <div style="flex: 1;">
     <img alt="Coding" width="400" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
