@@ -3,8 +3,6 @@
 
 <h5 align="center">I will try to update my projects and future collaborations as frequently as possible. Come and visit my profile anytime you wish!</h5>
 
-![Coding](https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif)
-
 <div style="text-align: right">
   <img alt="Coding" width="400" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
 </div>
