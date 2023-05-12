@@ -7,8 +7,6 @@
   <img alt="Coding" width="400" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasdanga&label=Profile%20views&color=0e75b6&style=flat" alt="andreasdanga" /> </p>
-
 - 🔭 I’m currently working on **Certifications: Python PCEP || Azure AZ-900 || Azure DP-900**
 
 - 🌱 I’m currently learning **More Python, More SQL, Azure**
