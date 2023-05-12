@@ -13,6 +13,8 @@
 
 - 👨‍💻 All of my projects are available at HIER MACHST DU IO REIN [https://github.com/AndreasDanga](https://github.com/AndreasDanga)
 
+- 🚀 You can have a look at my certifications and badges here: [Credly](https://www.credly.com/earner/earned)
+
 - 💬 Ask me about **Statistics, KPI Management, Stakeholder-Oriented MVP**
 
 
