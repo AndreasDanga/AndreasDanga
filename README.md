@@ -3,6 +3,20 @@
 
 <h5 align="center">I will try to update my projects and future collaborations as frequently as possible. Come and visit my profile anytime you wish!</h5>
 
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    - 🔭 I’m currently working on **Certifications: Python PCEP || Azure AZ-900 || Azure DP-900**
+    - 🌱 I’m currently learning **More Python, More SQL, Azure**
+    - 👨‍💻 All of my projects are available at [https://github.com/AndreasDanga](https://github.com/AndreasDanga)
+    - 🚀 You can have a look at my certifications and badges here: [Credly](https://www.credly.com/users/andreas-dangaris)
+    - 💬 Ask me about **Statistics, KPI Management, Stakeholder-Oriented MVP**
+  </div>
+  <div style="flex: 1;">
+    <img alt="Coding" width="400" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
+  </div>
+</div>
+
+
 <p align="right">
   <img alt="Coding" width="400" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
 </p>
