@@ -15,7 +15,6 @@
 
 - 💬 Ask me about **Statistics, KPI Management, Stakeholder-Oriented MVP**
 
-- 📫 How to reach me [LinkedIn](https://linkedin.com/in/andreasdangaris)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
