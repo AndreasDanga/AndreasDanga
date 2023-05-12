@@ -19,6 +19,7 @@
 </div>
 
 
+
 <p align="right">
   <img alt="Coding" width="400" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
 </p>
