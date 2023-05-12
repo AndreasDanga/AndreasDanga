@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasdanga&label=Profile%20views&color=0e75b6&style=flat" alt="andreasdanga" /> </p>
 
-- 🔭 I’m currently working on **Python PCEP || Azure AZ-900 || Azure DP-900**
+- 🔭 I’m currently working on **Certifications: Python PCEP || Azure AZ-900 || Azure DP-900**
 
 - 🌱 I’m currently learning **More Python, More SQL, Azure**
 
