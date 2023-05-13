@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **More Python, More SQL, Azure**
 
-- 👨‍💻 All of my projects are available at HIER MACHST DU IO REIN [https://github.com/AndreasDanga](https://github.com/AndreasDanga)
+- 👨‍💻 All of my projects are available at [https://github.com/AndreasDanga](https://github.com/AndreasDanga)
 
 - 🚀 You can have a look at my certifications and badges here: [Credly](https://www.credly.com/users/andreas-dangaris)
 
